@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 # I MADE A CHANGE!
-And it was good. But did it auto deploy on push?
+And it was good. But did it auto deploy on push? Did it heck.
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
